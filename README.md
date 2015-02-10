@@ -8,4 +8,6 @@ This is a readme file for demo repository.
 update1
 update2
 
+bug 101 fix
+
 Updating
